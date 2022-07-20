@@ -11,3 +11,14 @@ The goal of this analysis is to use patient data to estimate the average medical
 A data set, called insurance.csv, is provided containing medical insurance claims for anonymous clients in the US. The dataset contains some information on the clients which might have some correlation with the total amount of all claims (charges). You can assume that all clients in this dataset have the same exposure: i.e., all claims for all users are taken over the same period of time. 
 
 Here, exploratory data analysis will be performed and visualisations of this dataset will be provided to answer questions based on the data. Ostensibly, the purpose of this dataset is to find correlations between total medical costs and the other factors.
+
+
+The insurance data contains the following:
+• age: age of primary beneficiary.
+• sex: gender of the primary beneficiary: female, male.
+• bmi: body mass index. Gives a relationship between weight and height, providing an objective index of body weight (kg/m2) using the ratio of height to weight, ideally 18.5 to 24.9. There is a BMI chart in the datasets.zip file.
+• children: number of children covered by the insurance plan (or how many dependents there are).
+• smoker: if the primary beneficiary is a smoker.
+• region: the primary beneficiarys residential area in the US: northeast, southeast, southwest, northwest.
+• charges: total medical costs (claims) billed to the insurance company for this period.
+• premium: monthly premium paid by the client for this insurance plan.
