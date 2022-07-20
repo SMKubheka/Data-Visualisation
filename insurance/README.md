@@ -14,18 +14,19 @@ Here, exploratory data analysis will be performed and visualisations of this dat
 
 
 The insurance data contains the following:
-• age: age of primary beneficiary.
 
-• sex: gender of the primary beneficiary: female, male.
+> • age: age of primary beneficiary.
 
-• bmi: body mass index. Gives a relationship between weight and height, providing an objective index of body weight (kg/m2) using the ratio of height to weight, ideally 18.5 to 24.9. There is a BMI chart in the datasets.zip file.
+> • sex: gender of the primary beneficiary: female, male.
 
-• children: number of children covered by the insurance plan (or how many dependents there are).
+> • bmi: body mass index. Gives a relationship between weight and height, providing an objective index of body weight (kg/m2) using the ratio of height to weight, ideally 18.5 to 24.9. There is a BMI chart in the datasets.zip file.
 
-• smoker: if the primary beneficiary is a smoker.
+> • children: number of children covered by the insurance plan (or how many dependents there are).
 
-• region: the primary beneficiarys residential area in the US: northeast, southeast, southwest, northwest.
+> • smoker: if the primary beneficiary is a smoker.
 
-• charges: total medical costs (claims) billed to the insurance company for this period.
+> • region: the primary beneficiarys residential area in the US: northeast, southeast, southwest, northwest.
 
-• premium: monthly premium paid by the client for this insurance plan.
+> • charges: total medical costs (claims) billed to the insurance company for this period.
+
+> • premium: monthly premium paid by the client for this insurance plan.
